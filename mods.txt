@@ -8,7 +8,7 @@ DOWNLOAD citadel-2.1.4-1.19.jar
 DOWNLOAD cloth-config-8.3.115-forge.jar
 DOWNLOAD collective-1.19.2-7.30.jar
 DOWNLOAD CreativeCore_FORGE_v2.9.4_mc1.19.2.jar
-DOWNLOAD Dangers in the Darkness_1.0.31_Forge_1.19.2.jar
+DOWNLOAD Dangers-in-the-Darkness_1.0.31_Forge_1.19.2.jar
 DOWNLOAD darkness-forge-mc119-2.0.101.jar
 DOWNLOAD DynamicSurroundings-6.0.0.2.jar
 DOWNLOAD endofherobrine-1.19.2-1.0.8.2.jar
@@ -22,7 +22,7 @@ DOWNLOAD jei-1.19.2-forge-11.6.0.1018.jar
 DOWNLOAD Just_Some_New_Items-1.19.2-V1.2.jar
 DOWNLOAD keebszs_battle_towers-0.5.0-1.19.x.jar
 DOWNLOAD kotlinforforge-3.12.0-all.jar
-DOWNLOAD Mimicer v4 2.0.jar
+DOWNLOAD Mimicer.jar
 DOWNLOAD NEWVoidDweller-1.19.2.jar
 DOWNLOAD nightmare.jar-1.19.2.jar
 DOWNLOAD OptiFine_1.19.2_HD_U_I2.jar
@@ -38,7 +38,7 @@ DOWNLOAD spartanweaponry-1.19.2-3.0.4-beta-2.jar
 DOWNLOAD SpelunkersCharm-3.5.6-1.19.2.jar
 DOWNLOAD TheOneWhoWatches-V1.2.0-1.19.2.jar
 DOWNLOAD The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar
-DOWNLOAD TravelersBackpack-1.19.2-8.2.38 - Copy.jar
+DOWNLOAD TravelersBackpack-1.19.2-8.2.38.jar
 DOWNLOAD treeharvester-1.19.2-8.6.jar
 DOWNLOAD voicechat-forge-1.19.2-2.4.32.jar
 DOWNLOAD waystones-forge-1.19.2-11.4.2.jar
